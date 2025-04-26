@@ -1,0 +1,10 @@
+[package]
+name = "leptos-deweyhinni-gay"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.40"
+console_error_panic_hook = "0.1.7"
+leptos = { version = "0.7.8", features = ["csr"] }
+leptos_router = { version = "0.7.8", features = [] }
